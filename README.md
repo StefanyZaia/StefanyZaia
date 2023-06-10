@@ -1,4 +1,5 @@
 ### Oii, sou a Steh 💕
+Bem vindos ao meu perfil!
 
 <!--
 **Steh0806/Steh0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
