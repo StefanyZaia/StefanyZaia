@@ -1,2 +1,3 @@
-### Oii, sou a Stefany 💕
-Bem vindos ao meu perfil!
+# Oii, sou a Ste 💕
+Sejam bem-vindos ao meu perfil!
+Espero que curtam os repositórios.
