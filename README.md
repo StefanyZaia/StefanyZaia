@@ -48,6 +48,24 @@ Abaixo estão as principais ferramentas e linguagens que estou dominando:
 
 ## 📊 Estatísticas do Meu GitHub
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=StefanyZaia&show_icons=true&theme=default&include_all_commits=true&count_private=true" 
+    alt="Estatísticas do GitHub de Stefany"
+    style="margin-bottom: 10px;"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanyZaia&layout=compact&theme=default&langs_count=6"
+    alt="Linguagens mais usadas"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.vercel.app/?user=StefanyZaia&theme=default"
+    alt="Streak de Contribuições"
+  />
+</p>
+
 ---
 
 ## 📫 Conecte-se comigo!
