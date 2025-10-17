@@ -54,13 +54,11 @@ Abaixo estão as principais ferramentas e linguagens que estou dominando:
     alt="Estatísticas do GitHub de Stefany"
     style="margin-bottom: 10px;"
   />
-
-  <img 
+  <br> <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanyZaia&layout=compact&theme=default&langs_count=6"
     alt="Linguagens mais usadas"
   />
-
-  <img 
+  <br> <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=StefanyZaia&theme=dark"
     alt="GitHub Streak de Stefany"
   />
