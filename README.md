@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Stefany! 👋</h1>
+<h1 align="center">Olá, eu sou a Stefany! 🌷</h1>
 <h3 align="center">Desenvolvedora em Formação | AI/ML & Data Analyst | Python, Java & Cloud Enthusiast 🚀</h3>
 
 <p align="center">
