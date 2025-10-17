@@ -61,7 +61,7 @@ Abaixo estão as principais ferramentas e linguagens que estou dominando:
   />
 
   <img 
-    src="https://github-readme-streak-stats.vercel.app/?user=StefanyZaia&theme=default"
+    src="https://github-readme-streak-stats.vercel.app/?user=StefanyZaia&theme=radical"
     alt="GitHub Streak de Stefany"
   />
 </p>
