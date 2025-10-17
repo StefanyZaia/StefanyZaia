@@ -15,7 +15,7 @@ Meu objetivo é integrar a **Inteligência Artificial** com o **Desenvolvimento 
 
 - **🔭 Foco:** Desenvolver modelos de Machine Learning (ML) com **Python** e implantá-los em aplicações usando **Java** e **JavaScript**.
 - **🌱 Estou Aprendendo Ativamente:** **Cloud Solutions** (AWS/GCP), **Docker** para containerização e frameworks de **IA Generativa** (como LangChain).
-- **💡 Buscando:** Estágio ou vaga Júnior em **Engenharia de Software** ou **Data Science**. Estou aberta a colaborações em projetos open-source!
+- **💡 Buscando:** Vaga Júnior em **Engenharia de Software** ou **Data Science**. Estou aberta a colaborações em projetos open-source!
 
 ---
 
