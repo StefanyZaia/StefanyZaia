@@ -9,7 +9,7 @@
 
 ## 💻 Sobre Mim e Meu Foco Atual
 
-Atualmente, estou no meio da minha jornada em **[Seu Curso/Faculdade, ex: Sistemas de Informação]**, apaixonada por transformar dados em soluções inteligentes e sistemas robustos.
+Atualmente, estou no meio da minha jornada em Sistemas de Informação, apaixonada por transformar dados em soluções inteligentes e sistemas robustos.
 
 Meu objetivo é integrar a **Inteligência Artificial** com o **Desenvolvimento de Software** para criar produtos que realmente impactam.
 
